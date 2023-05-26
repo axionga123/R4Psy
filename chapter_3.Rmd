@@ -96,6 +96,14 @@ Sys.setenv(LANG = "en")
 # 3.1 路径与工作目录
 
 ## 什么是路径？<br><br>
+  - <font size=5.5> 路径是指文件（或文件夹）所在位置，包含绝对路径和相对路劲。</font> 
+
+- <font size=5.5> 绝对路径：文件在硬盘上的真实路径，如</font> <br><br>
+<font size=5.5> `D:/Documents/r_course/chapter_3/data` </font>
+<br><br>
+
+- <font size=5.5>相对路径：相对于当前文件（或当前工作目录）的路径,如</font> <br><br>
+<font size=5.5> "data" 或者 "./data" <br><br></font>
 
 - <font size=5.5> 注意：Windows与MacOS/Linux的目录结构上有差异</font> <br><br>
 
